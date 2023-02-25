@@ -50,7 +50,13 @@ const Today = () => {
 
   const renderLink = () => {
     if (link !== undefined) {
-      return <a href={link}>We are singing today: {title}</a>
+      return (
+        <>
+          <p className='font-bold text-blue-900'>
+            <b>We are singing today:</b> <a href={link}>{title}</a>
+          </p>
+        </>
+      )
     } else {
       return (
         <>
