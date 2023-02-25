@@ -32,8 +32,6 @@ yarn build
 
 If it does not succeed, try again (and again - a couple of times). Then try `yarn dev` again.
 
-If all this does not help, try to rename the `content/home.mdx` and try the above steps again.
-
 To our best knowledge the problem is with MDX, or maybe the way it is integrated with Gatsby. In the future we do plan to make Confluenza Gatsby-free, maybe MDX-free.
 
 Please get in touch if you still face problems.

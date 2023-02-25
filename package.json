@@ -2,7 +2,7 @@
   "name": "gregorian-gerwen",
   "version": "1.0.0",
   "private": true,
-  "description": "Gregorian Gerwen",
+  "description": "Information site for the Gregorian chant in the old St. Clemens church in Gerwen, the Netherlands",
   "author": "Marcin Czenko <marcin@everydayproductive.com>",
   "repository": {
     "type": "git",
