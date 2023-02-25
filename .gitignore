@@ -1,0 +1,14 @@
+.DS_Store
+node_modules/
+.cache/
+public
+static/pdf
+
+# yarn 2
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
