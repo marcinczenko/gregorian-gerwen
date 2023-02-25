@@ -13,6 +13,6 @@ sortIndex: 1
 | [Credo I](/pdf/credo-i.pdf) | 64 | |
 | [Propria](/pdf/1st-Sunday-of-Lent.pdf)  | 532 | [Tract in  a Psalm Tone](/pdf/1st-Sunday-of-Lent-Tract-PsalmTone.pdf) (Appendix II  p. 8*)|
 | [Ave Regina Caelorum](/pdf/ave-regina-caelorum.pdf)  | 278  |   |
-| [Attende Domine](/pdf/attende-domine.pdf)  | 278  | (Appendix I  p. 1871)  |
+| [Attende Domine](/pdf/attende-domine.pdf)  | Appendix I  p. 1871 |  |
 
 Organ: __only to support the singing__ (see [Use of musical instruments](/use-of-musical-instruments) p. CVIII).
