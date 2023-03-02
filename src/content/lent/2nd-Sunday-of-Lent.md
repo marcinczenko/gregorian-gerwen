@@ -11,7 +11,7 @@ sortIndex: 2
 | [Asperges](/pdf/asperges.pdf) | 11 | |
 | [Mass XVII](/pdf/xvii.pdf) | 60 | _Reminder:_ __no GLORIA__ |
 | [Credo I](/pdf/credo-i.pdf) | 64 | |
-| Propria  | 545 | |
+| [Propria](/pdf/2nd-Sunday-of-Lent.pdf)  | 545 | |
 | [Ave Regina Caelorum](/pdf/ave-regina-caelorum.pdf)  | 278  | |
 | [Attende Domine](/pdf/attende-domine.pdf)  | Appendix I  p. 1871 | |
 
