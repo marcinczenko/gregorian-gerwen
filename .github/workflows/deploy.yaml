@@ -27,6 +27,8 @@ jobs:
         run: corepack enable
       - name: Install Dependencies
         run: yarn install
+      - name: Update Known Hosts
+        run: echo ${{ secrets.KNOWN_HOST }} >> ~/.ssh/known_hosts
       - name: Deploy
         env:
           DEPLOYKEY: ${{ secrets.DEPLOYKEY }}
