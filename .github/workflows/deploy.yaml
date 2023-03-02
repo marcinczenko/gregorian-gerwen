@@ -27,11 +27,27 @@ jobs:
         run: corepack enable
       - name: Install Dependencies
         run: yarn install
+      - name: Build
+        run: yarn build
+      - name: Remove pdfs form build
+        run: rm -rf public/pdf
       - name: Update Known Hosts
         run: |
           mkdir ~/.ssh
           echo ${{ secrets.KNOWN_HOST }} >> ~/.ssh/known_hosts
-      - name: Deploy
+      - name: Create SSH Private Key
         env:
           DEPLOYKEY: ${{ secrets.DEPLOYKEY }}
-        run: ./deploy-ci.sh
+        run: |
+          echo "${DEPLOYKEY}" > tmpkey
+          chmod 600 tmpkey
+      - name: Deploy
+        env:
+          DEPLOYHOST: 'gregorian-gerwen.xyz'
+        run: |
+          tar czvf public-gregorian.tar.gz public/
+          scp -i tmpkey public-gregorian.tar.gz idbox@$DEPLOYHOST:~/personal-hosting/deployments/
+          ssh -i tmpkey idbox@$DEPLOYHOST /home/idbox/personal-hosting/deploy-gregorian.sh
+          rm public-gregorian.tar.gz
+      - name: Remove SSH Private Key
+        run: rm -f tmpkey
