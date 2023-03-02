@@ -46,11 +46,11 @@ jobs:
       - name: Copy files to server
         env:
           DEPLOYHOST: ${{ secrets.DEPLOYHOST }}
-        run: scp -i tmpkey public-gregorian.tar.gz idbox@$DEPLOYHOST:~/personal-hosting/deployments/ > /dev/stdout
+        run: scp -i tmpkey public-gregorian.tar.gz idbox@$DEPLOYHOST:~/personal-hosting/deployments/
       - name: Run Deployment Script on the server
         env:
           DEPLOYHOST: ${{ secrets.DEPLOYHOST }}
-        run: ssh -i tmpkey idbox@$DEPLOYHOST /home/idbox/personal-hosting/deploy-gregorian.sh > /dev/stdout
+        run: ssh -i tmpkey idbox@$DEPLOYHOST /home/idbox/personal-hosting/deploy-gregorian.sh
       - name: Delete compressed public file
         run: rm public-gregorian.tar.gz
       - name: Remove SSH Private Key
