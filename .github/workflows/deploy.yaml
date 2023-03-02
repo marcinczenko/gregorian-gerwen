@@ -28,7 +28,9 @@ jobs:
       - name: Install Dependencies
         run: yarn install
       - name: Update Known Hosts
-        run: echo ${{ secrets.KNOWN_HOST }} >> ~/.ssh/known_hosts
+        run: |
+          mkdir ~/.ssh
+          echo ${{ secrets.KNOWN_HOST }} >> ~/.ssh/known_hosts
       - name: Deploy
         env:
           DEPLOYKEY: ${{ secrets.DEPLOYKEY }}
