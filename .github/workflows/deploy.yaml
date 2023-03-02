@@ -27,8 +27,6 @@ jobs:
         run: corepack enable
       - name: Install Dependencies
         run: yarn install
-      - name: Create SSH key file
-        run: echo ${{ secrets.DEPLOYKEY }}
       - name: Deploy
         env:
           DEPLOYKEY: ${{ secrets.DEPLOYKEY }}
