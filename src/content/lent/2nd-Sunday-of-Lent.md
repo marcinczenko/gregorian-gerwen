@@ -16,3 +16,4 @@ sortIndex: 2
 | [Attende Domine](/pdf/attende-domine.pdf)  | Appendix I  p. 1871 | |
 
 Organ: __only to support the singing__ (see [Use of musical instruments](/use-of-musical-instruments) p. CVIII).
+TEST
