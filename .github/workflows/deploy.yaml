@@ -1,0 +1,35 @@
+name: Deploy
+
+on:
+  push:
+    tags:
+      - d*
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    env:
+      CI: true
+
+    strategy:
+      matrix:
+        node-version: [18.x]
+
+    steps:
+      - name: Check out code 🛎️
+        uses: actions/checkout@v3
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node-version }}
+      - name: Setup yarn
+        run: corepack enable
+      - name: Install Dependencies
+        run: yarn install
+      - name: Create SSH key file
+        run: echo ${{ secrets.DEPLOYKEY }}
+      - name: Deploy
+        env:
+          DEPLOYKEY: ${{ secrets.DEPLOYKEY }}
+        run: ./deploy-ci.sh
