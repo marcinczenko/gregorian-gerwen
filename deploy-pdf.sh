@@ -7,7 +7,7 @@ fi
 
 echo "Deploying PDFs to $DEPLOYHOST"
 
-tar czvf public-gregorian-pdf.tar.gz static/pdf
+tar czvf public-gregorian-pdf.tar.gz ./*.pdf
 scp public-gregorian-pdf.tar.gz idbox@$DEPLOYHOST:~/personal-hosting/deployments/
 ssh idbox@$DEPLOYHOST /home/idbox/personal-hosting/deploy-gregorian-pdf.sh
 rm public-gregorian-pdf.tar.gz
