@@ -6,7 +6,7 @@ content: ../styling.md
 sortIndex: 3
 ---
 
-|   | page  | notes   |
+|   | page (Liber Usualis) | notes   |
 |---|---|---|
 | [Asperges](/pdf/asperges.pdf) | 11 | _Glória_ is said as usual till _1st Sunday of the Passion_. |
 | [Mass XVII](/pdf/xvii.pdf) | 60 | _Reminder:_ __no GLORIA__ |
