@@ -1,6 +1,6 @@
 ---
 path: /1
-title: '1: 1st Sunday of Lent (1st class)'
+title: '1st Sunday of Lent (1st class)'
 tag: lent
 content: ../styling.md
 sortIndex: 1

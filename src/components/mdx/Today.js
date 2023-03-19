@@ -10,13 +10,7 @@ const Today = () => {
   const interval = useRef(undefined)
 
   useEffect(() => {
-    const today = currentDate
-    const todayString = `${today.getFullYear()}-${
-      today.getMonth() + 1
-    }-${today.getDate()}T00:00:00`
-    const existingKeys = Object.keys(calendar)
-    if (existingKeys.indexOf(todayString) === -1) {
-      existingKeys.push(todayString)
+    const setNextEvent = (existingKeys) => {
       console.log('keys sorted:', existingKeys.sort())
       const nextEvent =
         existingKeys[
@@ -29,6 +23,15 @@ const Today = () => {
         `${nextEventDate}: ${nextEventTitle.replace(/^\d+:/, '')}`
       )
     }
+    const today = currentDate
+    const todayString = `${today.getFullYear()}-${
+      today.getMonth() + 1
+    }-${today.getDate()}T00:00:00`
+    const existingKeys = Object.keys(calendar)
+    if (existingKeys.indexOf(todayString) === -1) {
+      existingKeys.push(todayString)
+    }
+    setNextEvent(existingKeys)
     if (calendar[todayString]) {
       const { title, link } = calendar[todayString]
       setTitle(title)
@@ -54,6 +57,9 @@ const Today = () => {
         <>
           <p className='font-bold text-blue-900'>
             <b>We are singing today:</b> <a href={link}>{title}</a>
+          </p>
+          <p>
+            <b>Next event:</b> <a href={nextEventLink}>{nextEventTitle}</a>
           </p>
         </>
       )

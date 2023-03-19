@@ -1,6 +1,6 @@
 ---
 path: /4
-title: '4: 4th Sunday of Lent (Laetare, 1st class)'
+title: '4th Sunday of Lent (Laetare, 1st class)'
 tag: lent
 content: ../styling.md
 sortIndex: 4
