@@ -5,6 +5,22 @@ const Index = () => {
     <div>
       <h1 className='font-sans text-5xl font-extralight'>Gregorian Gerwen</h1>
       <Today />
+      <div>
+        <p>Quick Links:</p>
+        <ul>
+          <li>
+            <a href='/latin-pronunciation' target='_blank'>
+              The Correct Pronunciation of Latin
+            </a>
+          </li>
+          <li>
+            <a href='/pdf/liber-usualis.pdf' target='_blank'>
+              Liber Usualis
+            </a>{' '}
+            (notice that this is a large download: <code>120.8 MB</code>)
+          </li>
+        </ul>
+      </div>
     </div>
   )
 }
