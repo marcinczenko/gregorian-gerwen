@@ -18,5 +18,13 @@ export const calendar = {
   '2023-3-20T00:00:00': {
     title: 'St. Joseph - Spouse of the Blessed Virgin Mary',
     link: '/319'
+  },
+  '2023-3-25T00:00:00': {
+    title: 'The Annunciation of the Blessed Virgin Mary',
+    link: '/325'
+  },
+  '2023-3-26T00:00:00': {
+    title: '1st Sunday of the Passion',
+    link: '/5'
   }
 }
