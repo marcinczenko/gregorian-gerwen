@@ -18,7 +18,7 @@ It should be stressed on the correct pronunciation of the double vowels _EU_, as
 
 >  These vowels generally form one syllable but both are distinctly heard.
 
-Also, on page 14, we find example of how to properly pronounce the word _Deus_, being _DEH-oos_ - thus, both _e_ (pronounced _EH_) en _u_ (pronounced _oo_) are distinctly heard. In particular, one should clearly stress that pronunciation of _Deus_ as _DEH-eeyoos_ is **incorrect**. Clearly, it is **Deus** not _Dejus_ (which sounds closer _ejus_, pronounced _EH-eeyoos_). **Meus**, not _mejus_, but also **mea**, not _meja_. (see also page 16 of the quoted document, showing the correct pronunciation of consonant _J_).
+Also, on page 14, we find example of how to properly pronounce the word _Deus_, being _DEH-oos_ - thus, both _e_ (pronounced _EH_) en _u_ (pronounced _oo_) are distinctly heard. In particular, one should clearly stress that pronunciation of _Deus_ as _DEH-eeyoos_ is **incorrect**. Clearly, it is **Deus** not _Dejus_ (which when pronounced this way sounds closer to _ejus_, pronounced _EH-eeyoos_). **Meus**, not _mejus_, but also **mea**, not _meja_. (see also page 16 of the quoted document, showing the correct pronunciation of consonant _J_).
 
 [Liber Usualis](/pdf/latin-pronunciation-liber-usualis.pdf) confirms the above notes, reminding that:
 
