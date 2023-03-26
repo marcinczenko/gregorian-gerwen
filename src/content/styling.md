@@ -29,4 +29,12 @@
   width: 300px;
   border: 1px solid black;
 }
+.no-break {
+  white-space: nowrap;
+}
+
+.no-margin {
+  margin: 0;
+  padding: 0;
+}
 </style>

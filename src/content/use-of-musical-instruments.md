@@ -35,7 +35,7 @@ sortIndex: 1000
 5. During the whole _Triduum sacrum_, that is, from midnight preceding Maundy Thursday until _Glória in excélsis Déo_ of the Easter Vigil, the organ and harmonium must remain absolutely silent; they must not even be used to support the singing; apart from the exceptions given above, 4 _b)_.
 
 
-    The music of organ and harmonium is equally forbidden during the _Triduum sacrum_, with no exception and notwithstanding any contrary custom, in any devotional exercises.
+    The music of organ and harmonium is equally forbidden during the _Triduum sacrum_, with no exception and not withstanding any contrary custom, in any devotional exercises.
 
 6. Parish priests, and others whom it concerns, should not fail fully to explain to the people the reason for this liturgical silence.
 

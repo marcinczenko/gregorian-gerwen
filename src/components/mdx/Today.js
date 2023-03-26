@@ -16,6 +16,7 @@ const Today = () => {
         existingKeys[
           (existingKeys.indexOf(todayString) + 1) % existingKeys.length
         ]
+      console.log('nextEvent=', nextEvent)
       const nextEventDate = nextEvent.replace('T00:00:00', '')
       const { title: nextEventTitle, link: nextEventLink } = calendar[nextEvent]
       setNextEventLink(nextEventLink)
@@ -24,9 +25,10 @@ const Today = () => {
       )
     }
     const today = currentDate
-    const todayString = `${today.getFullYear()}-${
-      today.getMonth() + 1
-    }-${today.getDate()}T00:00:00`
+    const todayString = `${today.getFullYear()}-${(
+      '0' + `${today.getMonth() + 1}`
+    ).slice(-2)}-${('0' + today.getDate()).slice(-2)}T00:00:00`
+    console.log('todayString=', todayString)
     const existingKeys = Object.keys(calendar)
     if (existingKeys.indexOf(todayString) === -1) {
       existingKeys.push(todayString)
