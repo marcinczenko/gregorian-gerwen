@@ -19,6 +19,11 @@ const Index = () => {
             </a>{' '}
             (notice that this is a large download: <code>120.8 MB</code>)
           </li>
+          <li>
+            <a href='/use-of-musical-instruments' target='_blank'>
+              Use of musical instruments
+            </a>
+          </li>
         </ul>
       </div>
     </div>
