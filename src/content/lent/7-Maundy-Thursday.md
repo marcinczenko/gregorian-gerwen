@@ -40,7 +40,7 @@ When the washing of the feet is nearly ended,the 8th antiphon _Ubi cáritas_ wit
 | VII. _Maneant in vóbis_ | 674 |
 | VIII. _Ubi cáritas_ | 675 |
 
-*) Pages as in _Liber Usualis_.
+*) all pages as in _Liber Usualis_.
 
 After the feet-washing, the celebrant says _Pater noster_ in silence, followed up by _Dóminus vobiscum_ and a prayer. The Mass is continued in the usual way.
 
