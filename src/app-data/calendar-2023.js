@@ -42,5 +42,17 @@ export const calendar = {
   '2023-04-08T00:00:00': {
     title: 'The Paschal Vigil',
     link: '/9'
+  },
+  '2023-04-09T00:00:00': {
+    title: 'Easter Sunday',
+    link: '/10'
+  },
+  '2023-04-10T00:00:00': {
+    title: 'Easter Monday',
+    link: '/11'
+  },
+  '2023-04-16T00:00:00': {
+    title: 'Low Sunday',
+    link: '/12'
   }
 }
