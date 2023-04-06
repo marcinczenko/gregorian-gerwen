@@ -74,7 +74,7 @@ The celebrant says the following antiphon in a clear voice:
 
 (Psalm 21, 19): _Divisérunt sibi vestiménta mea: et super vestem meam misérunt sortem._
 
-Adding the intonation of the same psalm: _(1) Deus, Deus meus, réspice in me: quare me dereliquísti?_ (p. 749, [download](/pdf/psalm-21.pdf))
+adding the intonation of the same psalm: _(1) Deus, Deus meus, réspice in me: quare me dereliquísti?_ (p. 749, [download](/pdf/psalm-21.pdf))
 
 The chorus continues the recitation of this psalm until the stripping of the altars is completed.
 
