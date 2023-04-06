@@ -17,8 +17,6 @@ sortIndex: 7
 
 \[[Download](/pdf/maundy-thursday-part-1.pdf)\]
 
-## Credo
-
 **No Credo today.**
 
 ## The Washing of the Feet
@@ -58,11 +56,11 @@ Preface, Sanctus and Benedictus as usual. The preface of the holy Cross is said.
 
 After the Holy Communion, Mass is continued in the usual way, but the celebrant genuflects each time he goes to or from the middle of the altar or crosses in front of the Blessed Sacrament. When he says _Dóminus vobiscum_ he turns to the people not from the middle but from the Gospel side, to avoid turning his back on the Blessed Sacrament.
 
-> Instead of _Ite missa est_, we sing **Benedicámus Dómino**.
+> Instead of _Ite missa est_, we sing [Benedicámus Dómino](/pdf/benedicamus-II.pdf) (p. 22).
 
 ## The Solemn Translation and Reservation of the Blessed Sacrament
 
-Immediately after Mass there takes place the solemn translation and reservation of the Blessed Sacrament, which is kept in a ciborium for Holy Communion the next day.
+Immediately after the Mass, there takes place the solemn translation and reservation of the Blessed Sacrament, which is kept in a ciborium for Holy Communion the next day.
 
 During the procession the hymn [Pánge, língua](/pdf/pange-lingua.pdf) (p. 957) is sung until the verse _Tantum ergo_ <u>exclusive</u>; if necessary, the hymn is repeated from the second verse.
 
