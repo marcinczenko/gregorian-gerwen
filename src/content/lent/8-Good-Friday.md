@@ -60,7 +60,7 @@ The singing is continued for as long as the adoration continues. It always ends 
 
 ## The fourth part of the Liturgy: Holy Communion
 
-When the Blessed Sacrament is brought back to the high altar, we sing the following antiphons (p. 746, 747, [download](/pdf/good-friday-part-4.pdf)).
+When the Blessed Sacrament is brought back to the high altar, we sing the antiphons (p. 746, 747, [download](/pdf/good-friday-part-4.pdf)).
 
 After that, all present: clergy, servers and people, standing, recite _Pater noster_ in Latin with the celebrant, gravely and distinctly; and all add _Amen_ at the end.
 
