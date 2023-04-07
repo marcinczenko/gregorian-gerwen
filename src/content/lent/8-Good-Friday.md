@@ -47,7 +47,7 @@ After the solemn collects, the solemn adoration of the Cross begins.
 
 The holy Cross is unveiled in the following way:
 
-The celebrant, holding the Cross, with deacon and subdeacon \[first and second servers\] on either side, and two acolytes \[servers\] with lighted candles, goes to the Epistle side on floor-level, stands facing the people, and uncovers the top of the cross a little. An acolyte \[server\] holds the book; the celebrant intones alone, at a low pitch, [Ecce lignum Crúcis](/pdf/ecce-lignum.pdf), and the sacred ministers sing it with him as far as _Veníte, adorémus_, which is sung by the schola and all the people, standing.
+The celebrant, holding the Cross, with deacon and subdeacon \[first and second server\] on either side, and two acolytes \[servers\] with lighted candles, goes to the Epistle side on floor-level, stands facing the people, and uncovers the top of the cross a little. An acolyte \[server\] holds the book; the celebrant intones alone, at a low pitch, [Ecce lignum Crúcis](/pdf/ecce-lignum.pdf), and the sacred ministers sing it with him as far as _Veníte, adorémus_, which is sung by the schola and all the people, standing.
 
 The adoration of the Cross then begins as follows: first the celebrant comes alone, then the sacred ministers, then the clergy and lastly the servers. If it can be done conveniently, they all take their shoes off, and they approach the Cross one after the other: after a simple genuflexion made three times, they kiss the feet of the crucifix.
 

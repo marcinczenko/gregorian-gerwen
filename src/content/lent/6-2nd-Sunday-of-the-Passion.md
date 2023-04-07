@@ -46,3 +46,9 @@ During the procession we sing _Láuda, Jerúsalem_. After reaching the main entr
 *) Pages as in _Liber Usualis_.
 
 Organ: __only to support the singing__ (see [Use of musical instruments](/use-of-musical-instruments) p. CVIII).
+
+## Notes
+
+| year | notes |
+|---|---|
+| 2023 | The procession took place around the parking area surrounding the church. We managed to sing the whole _Láuda, Jerúsalem_ and part of the _Benedictus_ from the procession leaflet. |

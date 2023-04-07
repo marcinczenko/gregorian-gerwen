@@ -8,7 +8,7 @@ sortIndex: 7
 
 ## From the beginning of the Mass to the Gospel
 
-[Mass IV](/pdf/iv.pdf) (??)
+[Mass IV](/pdf/iv.pdf)
 
 1. **Intr:** _Nos autem_ (p. 667)
    
@@ -25,7 +25,7 @@ sortIndex: 7
 
 The celebrant, having made reverence to the altar, goes to the bench and sits. The deacon and subdeacon [or the two principal servers] bring the twelve men two by two to the place prepared for them, during which time the schola or the clergy begin to sing or recite the antiphons, psalms and verses indicated below.
 
-When the washing of the feet is nearly ended,the 8th antiphon _Ubi cáritas_ with its verses is begun. If necessary, some of the preceding antiphons may be omitted, but never this antiphon _Ubi cáritas_.
+When the washing of the feet is nearly ended, the 8th antiphon _Ubi cáritas_ with its verses is begun. If necessary, some of the preceding antiphons may be omitted, but never this antiphon _Ubi cáritas_.
 
 > The Antiphons are each repeated after the Psalm or Versicle. Only the first verse of the Psalm is said in each case.
 
@@ -79,3 +79,9 @@ adding the intonation of the same psalm: _(1) Deus, Deus meus, réspice in me: q
 The chorus continues the recitation of this psalm until the stripping of the altars is completed.
 
 After stripping the altars they return to the high altar, and when the celebrant has repeated the antiphon _Divisérunt_, they return to the sacristy.
+
+## Notes
+
+| year | notes |
+|---|---|
+| 2023 | <ol class='no-margin'><li>During the washing of the feet, we sung numbers I, II, III, and VIII. This gave us perfect timing. With more people more antiphons can be sung.</li><li>During the communion we sung all verses from _Psalm 22_ and first two from _Psalm 71_.</li><li>During the stripping of the altars we sung the whole Psalm 21 and then we started from the beginning reaching verse _14_ and then concluding with verse _34_.</li></ol> | 
