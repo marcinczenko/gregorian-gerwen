@@ -58,6 +58,8 @@ While the adoration of the Cross is taking place, the schola (divided into two c
 
 The singing is continued for as long as the adoration continues. It always ends with the doxology _Sempitérna sit beátae Trinitáti glória_ from the hymn _Pánge, lingua, gloriósi lauream certaminis_ (p. 745).
 
+> We should finish this part when the adoration ends. In 2023 it took too long so that we overlapped the procession and sung the doxology _Sempitérna sit beátae Trinitáti glória_ when the procession with the Blessed Sacrament was entering the church. It would be better at this moment to begin already with the antiphon _Adorámus te, Chríste_ (p. 746, 747, see the next section). Perhaps a good middle-ground would be to start _Crux fidélis_ just at the moment when the adoration of the faithful is about to end, so that hymn _Pange língua_ overlaps with the procession leaving the church, but it would be appropriate to finish with _Sempitérna sit beátae Trinitáti glória_ just before the procession comes back so that the antiphon _Adorámus te, Chríste_ begins on time.
+
 ## The fourth part of the Liturgy: Holy Communion
 
 When the Blessed Sacrament is brought back to the high altar, we sing the antiphons (p. 746, 747, [download](/pdf/good-friday-part-4.pdf)).
@@ -65,5 +67,7 @@ When the Blessed Sacrament is brought back to the high altar, we sing the antiph
 After that, all present: clergy, servers and people, standing, recite _Pater noster_ in Latin with the celebrant, gravely and distinctly; and all add _Amen_ at the end.
 
 After the communion, the celebrant purifies his fingers and dries them, saying nothing. He then replaces the ciborium in the tabernacle. Then the celebrant stands in the middle of the altar with the book in front of him and the sacred ministers on either side of him, and with his hands joined, he sings the three collects. All stand and answer: _Amen_.
+
+> After the prayer _Libera nos_ and before _Percéptio Córporis tui_ we **kneel**.
 
 The celebrant and the sacred ministers go down the altar steps, genuflect, and return to the sacristy with the acolytes \[or servers\].
