@@ -59,6 +59,10 @@ export const calendar = {
     title: '2nd Sunday after Easter',
     link: '/13'
   },
+  '2023-04-25T00:00:00': {
+    title: 'St. Mark, Evangelist',
+    link: '/425'
+  },
   '2023-04-30T00:00:00': {
     title: '3rd Sunday after Easter',
     link: '/14'
