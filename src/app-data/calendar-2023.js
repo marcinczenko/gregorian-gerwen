@@ -69,7 +69,7 @@ export const calendar = {
   },
   '2023-05-01T00:00:00': {
     title: 'St. Joseph the Workman - Spouse of the B. V. Mary and Confessor',
-    link: '/319'
+    link: '/501'
   },
   '2023-05-07T00:00:00': {
     title: '4th Sunday after Easter',
