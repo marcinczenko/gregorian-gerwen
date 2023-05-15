@@ -15,7 +15,6 @@ sortIndex: 17
 |   | page | notes   |
 |---|---|---|
 | [Mass XVIII](/pdf/xviii.pdf) | 62 ||
-| [Credo III](/pdf/credo-iii.pdf) | 68 ||
 | [Propria](/pdf/rogation-days.pdf)  | 840 | Alleluia I: _Propitius esto_ (p. 841) |
 | [Regína caéli](/pdf/ave-regina-caelorum.pdf)  | 278  ||
 
