@@ -16,6 +16,8 @@ sortIndex: 15
 
 *) all page numbers as in _Liber Usualis_.
 
+## Tones
+
 | Part  | Tone |
 |---|---|
 | Intr | Dis |
@@ -23,5 +25,7 @@ sortIndex: 15
 | Alleluia II | E |
 | Offr | C |
 | Comm | Fis |
+
+## Verse Communio
 
 Verse Communio: page 93.
