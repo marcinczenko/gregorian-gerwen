@@ -78,5 +78,17 @@ export const calendar = {
   '2023-05-14T00:00:00': {
     title: '5th Sunday after Easter',
     link: '/16'
+  },
+  '2023-05-15T00:00:00': {
+    title: 'Rogation days',
+    link: '/17'
+  },
+  '2023-05-16T00:00:00': {
+    title: 'Rogation days',
+    link: '/17'
+  },
+  '2023-05-17T00:00:00': {
+    title: 'Rogation days',
+    link: '/17'
   }
 }
