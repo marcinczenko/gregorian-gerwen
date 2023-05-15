@@ -16,7 +16,6 @@ sortIndex: 17
 |---|---|---|
 | [Mass XVIII](/pdf/xviii.pdf) | 62 ||
 | [Propria](/pdf/rogation-days.pdf)  | 840 | Alleluia I: _Propitius esto_ (p. 841) |
-| [Regína caéli](/pdf/ave-regina-caelorum.pdf)  | 278  ||
 
 *) all page numbers as in _Liber Usualis_.
 
