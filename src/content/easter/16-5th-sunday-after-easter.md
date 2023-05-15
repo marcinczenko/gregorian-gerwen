@@ -1,17 +1,17 @@
 ---
-path: /15
-title: '4th Sunday after Easter (2nd class)'
+path: /16
+title: '5th Sunday after Easter (2nd class)'
 tag: easter
 content: ../styling.md
-sortIndex: 15
+sortIndex: 16
 ---
 
 |   | page | notes   |
 |---|---|---|
 | [Vidi áquam](/pdf/vidi-aquam.pdf) | 12 ||
 | [Mass I](/pdf/i.pdf) | 16 ||
-| [Credo I](/pdf/credo-i.pdf) | 64 ||
-| [Propria](/pdf/4th-sunday-after-easter.pdf)  | 826 | Offertory: Jubiláte Déo (p. 486) |
+| [Credo III](/pdf/credo-iii.pdf) | 64 ||
+| [Propria](/pdf/5th-sunday-after-easter.pdf)  | 826 ||
 | [Regína caéli](/pdf/ave-regina-caelorum.pdf)  | 278  ||
 
 *) all page numbers as in _Liber Usualis_.
@@ -19,9 +19,9 @@ sortIndex: 15
 | Part  | Tone |
 |---|---|
 | Intr | Dis |
-| Alleluia I | Dis |
-| Alleluia II | E |
-| Offr | C |
-| Comm | Fis |
+| Alleluia I | E |
+| Alleluia II | A |
+| Offr | Dis |
+| Comm | F |
 
-Verse Communio: page 93.
+Verse Communio: page 94.

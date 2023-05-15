@@ -74,5 +74,9 @@ export const calendar = {
   '2023-05-07T00:00:00': {
     title: '4th Sunday after Easter',
     link: '/15'
+  },
+  '2023-05-14T00:00:00': {
+    title: '5th Sunday after Easter',
+    link: '/16'
   }
 }
