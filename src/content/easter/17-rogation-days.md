@@ -25,11 +25,11 @@ sortIndex: 17
 
 | Part  | Tone |
 |---|---|
-| Exsúrge | E |
+| Exsúrge | Dis |
 | Litany | A |
 | Psalm 69 | A |
-| Intr | E |
-| Alleluia I | D |
+| Intr | Dis |
+| Alleluia I | Dis |
 | Alleluia II | E |
-| Offr | D |
-| Comm | A |
+| Offr | C |
+| Comm | Gis |
