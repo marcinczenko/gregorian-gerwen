@@ -90,5 +90,13 @@ export const calendar = {
   '2023-05-17T00:00:00': {
     title: 'Rogation days',
     link: '/17'
+  },
+  '2023-05-18T00:00:00': {
+    title: 'Ascension of Our Lord',
+    link: '/18'
+  },
+  '2023-05-21T00:00:00': {
+    title: 'Sunday within the Octave of the Ascension',
+    link: '/19'
   }
 }
