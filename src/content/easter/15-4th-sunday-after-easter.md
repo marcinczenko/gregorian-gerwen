@@ -21,8 +21,8 @@ sortIndex: 15
 | Part  | Tone |
 |---|---|
 | Intr | Dis |
-| Alleluia I | Dis |
-| Alleluia II | E |
+| Allelúia I | Dis |
+| Allelúia II | E |
 | Offr | C |
 | Comm | Fis |
 

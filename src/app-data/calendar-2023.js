@@ -98,5 +98,13 @@ export const calendar = {
   '2023-05-21T00:00:00': {
     title: 'Sunday within the Octave of the Ascension',
     link: '/19'
+  },
+  '2023-05-28T00:00:00': {
+    title: 'The Feast of Pentecost - Whit Sunday',
+    link: '/20'
+  },
+  '2023-05-29T00:00:00': {
+    title: 'The Feast of Pentecost - Whit Monday',
+    link: '/21'
   }
 }
