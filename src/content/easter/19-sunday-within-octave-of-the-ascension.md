@@ -21,10 +21,10 @@ sortIndex: 19
 | Part  | Tone |
 |---|---|
 | Intr | E |
-| Allelúia I | E |
+| Allelúia I | F |
 | Allelúia II | E |
 | Offr | E |
-| Comm | G |
+| Comm | Fis |
 
 ## Verse Communio
 Verse Communio: page 69.
