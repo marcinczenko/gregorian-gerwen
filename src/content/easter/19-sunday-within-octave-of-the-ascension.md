@@ -24,7 +24,7 @@ sortIndex: 19
 | Allelúia I | F |
 | Allelúia II | E |
 | Offr | E |
-| Comm | Fis |
+| Comm | G |
 
 ## Verse Communio
 Verse Communio: page 69.
