@@ -19,20 +19,21 @@
   }  
 }
 .figure-title {
-  font-size: 0.8em
+  margin-top: 1em;
+  font-size: 0.8em;
 }
-.bordered-content-600 {
+.content-600 {
   width: 600px;
-  border: 1px solid black;
 }
-.bordered-content-300 {
+.content-300 {
   width: 300px;
-  border: 1px solid black;
 }
 .no-break {
   white-space: nowrap;
 }
-
+.border {
+  border: 1px solid black;
+}
 .no-margin {
   margin: 0;
   padding: 0;
