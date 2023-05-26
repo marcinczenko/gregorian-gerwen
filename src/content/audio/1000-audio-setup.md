@@ -108,4 +108,4 @@ Here are some examples of good quality, yet affordable microphones specially mea
 
 For connecting the speakers we are using [a standard electricity cable (2x0,75 mm²)](https://www.hornbach.nl/p/huishoudkabel-vmvs-2x0-75-mm-wit-per-meter/10253053/). I have already replaced part of the wiring to improve the current installation. Some more replacements will be needed when installing new speakers.
 
-I have already replaced the old unbalanced microphone cable with a balance XLR [pro snake TPM 20,0 CC Micro Cable](https://www.thomann.de/nl/pro_snake_tpm_200_cc_micro_cable_deepbl.htm).
+I have already replaced the old unbalanced microphone cable with the balanced XLR [pro snake TPM 20,0 CC Micro Cable](https://www.thomann.de/nl/pro_snake_tpm_200_cc_micro_cable_deepbl.htm).
