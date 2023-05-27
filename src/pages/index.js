@@ -24,6 +24,100 @@ const Index = () => {
               Use of musical instruments
             </a>
           </li>
+          <li>
+            <a
+              href='/pdf/de-musica-sacra-et-sacra-liturgia.pdf'
+              target='_blank'
+            >
+              De musica sacra et sacra liturgia
+            </a>{' '}
+            (preserved local copy from{' '}
+            <a
+              href='https://www.ccwatershed.org/2013/04/11/de-musica-sacra-et-sacra-liturgia-1958/'
+              target='_blank'
+              rel='noreferrer'
+            >
+              www.ccwatershed.org
+            </a>
+            )
+          </li>
+          <li>
+            <a
+              href='/pdf/de-musica-sacra-et-sacra-liturgia-2.pdf'
+              target='_blank'
+            >
+              De musica sacra et sacra liturgia (alternative translation)
+            </a>{' '}
+            (preserved local copy from{' '}
+            <a
+              href='https://www.ccwatershed.org/2013/04/11/de-musica-sacra-et-sacra-liturgia-1958/'
+              target='_blank'
+              rel='noreferrer'
+            >
+              www.ccwatershed.org
+            </a>
+            )
+          </li>
+          <li>
+            <a
+              href='https://adoremus.org/1958/09/instruction-on-sacred-music/'
+              target='_blank'
+              rel='noreferrer'
+            >
+              De musica sacra et sacra liturgia
+            </a>{' '}
+            (web version from{' '}
+            <a href='https://adoremus.org' target='_blank' rel='noreferrer'>
+              adoremus.org
+            </a>
+            )
+          </li>
+          <li>
+            <a
+              href='/pdf/guidelines-for-liturgical-services.pdf'
+              target='_blank'
+            >
+              Guidelines for Liturgical Services according to the 1962 Missale
+              Romanum - Music for High Mass
+            </a>{' '}
+            (preserved local copy from{' '}
+            <a
+              href='https://media.musicasacra.com/pdf/highmass.pdf'
+              target='_blank'
+              rel='noreferrer'
+            >
+              media.musicasacra.com
+            </a>
+            )
+          </li>
+          <li>
+            <a
+              href='/pdf/guidelines-for-liturgical-services.pdf'
+              target='_blank'
+            >
+              Guidelines for Liturgical Services according to the 1962 Missale
+              Romanum - Music for Low Mass
+            </a>{' '}
+            (preserved local copy from{' '}
+            <a
+              href='https://media.musicasacra.com/pdf/lowmass.pdf'
+              target='_blank'
+              rel='noreferrer'
+            >
+              media.musicasacra.com
+            </a>
+            )
+          </li>
+          <li>
+            <a
+              href='https://www.ewtn.com/catholicism/library/music-of-the-mass-11089'
+              target='_blank'
+              rel='noreferrer'
+            >
+              Music of the Mass
+            </a>{' '}
+            from Catholic Encyclopedia
+          </li>
         </ul>
       </div>
     </div>
