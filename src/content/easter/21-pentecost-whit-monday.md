@@ -19,11 +19,11 @@ sortIndex: 21
 | Part  | Tone |
 |---|---|
 | Intr | Dis |
-| Allelúia I | Dis |
-| Allelúia II | F |
-| Sequence | D |
+| Allelúia I | F |
+| Allelúia II | E |
+| Sequence | C |
 | Offer | Dis |
-| Comm | G |
+| Comm | Fis |
 
 ## Verse Communio
 Verse Communio: page 98.

@@ -21,11 +21,11 @@ sortIndex: 20
 | Part  | Tone |
 |---|---|
 | Veni Creátor | E |
-| Intr | Dis |
-| Allelúia I | Fis |
-| Allelúia II | F |
-| Sequence | D |
-| Offer | E |
+| Intr | C |
+| Allelúia I | G |
+| Allelúia II | E |
+| Sequence | C |
+| Offer | F |
 | Comm | Dis |
 
 ## Verse Communio
