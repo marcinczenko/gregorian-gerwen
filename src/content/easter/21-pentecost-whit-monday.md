@@ -10,7 +10,7 @@ sortIndex: 21
 |---|---|---|
 | [Mass I](/pdf/i.pdf) | 16 ||
 | [Credo I](/pdf/credo-i.pdf) | 68 ||
-| [Propria](/pdf/pentecost-whit-monday.pdf)  | 878 | **Allelúia II:** _Veni Sáncte Spíritus_ (p. 880)<br>**Sequence:** *Veni Sáncte Spíritus. Allelúia* (p. 880)<br>**Offertory:** *Intónuit* (p. 791) |
+| [Propria](/pdf/pentecost-whit-monday.pdf)  | 887 | **Allelúia II:** _Veni Sáncte Spíritus_ (p. 880)<br>**Sequence:** *Veni Sáncte Spíritus. Allelúia* (p. 880)<br>**Offertory:** *Intónuit* (p. 791) |
 
 *) all page numbers as in _Liber Usualis_.
 
