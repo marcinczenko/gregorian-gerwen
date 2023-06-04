@@ -106,5 +106,9 @@ export const calendar = {
   '2023-05-29T00:00:00': {
     title: 'The Feast of Pentecost - Whit Monday',
     link: '/21'
+  },
+  '2023-06-04T00:00:00': {
+    title: 'The Feast of the Blessed Trinity',
+    link: '/22'
   }
 }
