@@ -122,5 +122,21 @@ export const calendar = {
   '2023-06-18T00:00:00': {
     title: 'Sunday within the Octave of the Sacred Heart',
     link: '/25'
+  },
+  '2023-06-25T00:00:00': {
+    title: '4th Sunday after Pentecost',
+    link: '/26'
+  },
+  '2023-06-29T00:00:00': {
+    title: 'The Holy Apostles Peter And Paul',
+    link: '/629'
+  },
+  '2023-07-01T00:00:00': {
+    title: 'The Most Precious Blood Of Our Lord Jesus Christ',
+    link: '/701'
+  },
+  '2023-07-02T00:00:00': {
+    title: '5th Sunday after Pentecost',
+    link: '/27'
   }
 }
