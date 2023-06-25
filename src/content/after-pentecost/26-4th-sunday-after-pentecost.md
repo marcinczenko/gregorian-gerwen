@@ -22,7 +22,7 @@ sortIndex: 26
 |---|---|
 | Intr | D |
 | Grad | Cis |
-| Allelúia | D |
+| Allelúia | Dis |
 | Offer | G |
 | Comm | A |
 
