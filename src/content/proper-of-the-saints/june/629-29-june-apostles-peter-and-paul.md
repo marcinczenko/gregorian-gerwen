@@ -18,8 +18,8 @@ sortIndex: 629
 
 | Part  | Tone |
 |---|---|
-| Intr | Fis |
-| Grad | Dis |
+| Intr | F |
+| Grad | D |
 | Allelúia | E |
 | Offer | D |
 | Comm | A |
