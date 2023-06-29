@@ -18,10 +18,10 @@ sortIndex: 629
 
 | Part  | Tone |
 |---|---|
-| Intr | E |
-| Grad | Cis |
-| Allelúia | Dis |
-| Offer | G |
+| Intr | Fis |
+| Grad | Dis |
+| Allelúia | E |
+| Offer | D |
 | Comm | A |
 
 ## Verse Communio
