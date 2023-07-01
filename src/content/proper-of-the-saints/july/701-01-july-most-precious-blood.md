@@ -18,11 +18,11 @@ sortIndex: 701
 
 | Part  | Tone |
 |---|---|
-| Intr | E |
-| Grad | Cis |
-| Allelúia | Dis |
-| Offer | G |
-| Comm | A |
+| Intr | Dis |
+| Grad | F |
+| Allelúia | E |
+| Offer | E |
+| Comm | F |
 
 ## Verse Communio
 Verse Communio: page 74.
