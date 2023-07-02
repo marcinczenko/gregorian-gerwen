@@ -20,10 +20,10 @@ sortIndex: 27
 
 | Part  | Tone |
 |---|---|
-| Intr | E |
-| Grad | Cis |
-| Allelúia | Dis |
-| Offer | G |
+| Intr | Fis |
+| Grad | D |
+| Allelúia | D |
+| Offer | Cis |
 | Comm | A |
 
 ## Verse Communio
