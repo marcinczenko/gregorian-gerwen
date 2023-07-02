@@ -20,7 +20,7 @@ sortIndex: 27
 
 | Part  | Tone |
 |---|---|
-| Intr | Fis |
+| Intr | G |
 | Grad | D |
 | Allelúia | D |
 | Offer | Cis |
