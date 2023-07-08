@@ -138,5 +138,9 @@ export const calendar = {
   '2023-07-02T00:00:00': {
     title: '5th Sunday after Pentecost',
     link: '/27'
+  },
+  '2023-07-09T00:00:00': {
+    title: '6th Sunday after Pentecost',
+    link: '/28'
   }
 }
