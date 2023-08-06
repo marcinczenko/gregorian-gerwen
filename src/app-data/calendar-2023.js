@@ -154,5 +154,9 @@ export const calendar = {
   '2023-07-30T00:00:00': {
     title: '9th Sunday after Pentecost',
     link: '/31'
+  },
+  '2023-08-06T00:00:00': {
+    title: 'The Transfiguration Of Our Lord Jesus Christ',
+    link: '/806'
   }
 }
