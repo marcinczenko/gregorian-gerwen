@@ -158,5 +158,13 @@ export const calendar = {
   '2023-08-06T00:00:00': {
     title: 'The Transfiguration Of Our Lord Jesus Christ',
     link: '/806'
+  },
+  '2023-08-13T00:00:00': {
+    title: '11th Sunday after Pentecost',
+    link: '/33'
+  },
+  '2023-08-15T00:00:00': {
+    title: 'The Assumption of The Blessed Virgin Mary',
+    link: '/815'
   }
 }
