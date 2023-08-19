@@ -20,11 +20,11 @@ sortIndex: 34
 
 | Part  | Tone |
 |---|---|
-| Intr | F |
-| Grad | Dis |
+| Intr | Fis |
+| Grad | E |
 | Allelúia | E |
 | Offer | G |
-| Comm | G |
+| Comm | Gid |
 
 ## Verse Communio
 Verse Communio: page 121.
