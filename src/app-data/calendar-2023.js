@@ -166,5 +166,9 @@ export const calendar = {
   '2023-08-15T00:00:00': {
     title: 'The Assumption of The Blessed Virgin Mary',
     link: '/815'
+  },
+  '2023-08-20T00:00:00': {
+    title: '12th Sunday after Pentecost',
+    link: '/34'
   }
 }
