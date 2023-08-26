@@ -6,8 +6,6 @@ content: ../../styling.md
 sortIndex: 815
 ---
 
-## The Assumption of the Blessed Virgin Mary
-
 |   | page | notes   |
 |---|---|---|
 | [Mass IX](/pdf/ix.pdf) | 40 ||

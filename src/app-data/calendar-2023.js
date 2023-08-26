@@ -170,5 +170,13 @@ export const calendar = {
   '2023-08-20T00:00:00': {
     title: '12th Sunday after Pentecost',
     link: '/34'
+  },
+  '2023-08-22T00:00:00': {
+    title: 'The Immaculate Heart Of Mary',
+    link: '/822'
+  },
+  '2023-08-27T00:00:00': {
+    title: '13th Sunday after Pentecost',
+    link: '/35'
   }
 }
