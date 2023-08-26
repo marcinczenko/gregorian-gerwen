@@ -10,7 +10,7 @@ sortIndex: 822
 |---|---|---|
 | [Mass IX](/pdf/ix.pdf) | 40 ||
 | [Credo I](/pdf/credo-i.pdf) | 64 ||
-| [Propria (GABC)](https://bbloomf.github.io/jgabc/propers.html#saint=Aug15),<br>[Propria (PDF scan)](/pdf/22-August-ImmaculateHeart.pdf)  | 1612(1) ||
+| [Propria (GABC)](https://bbloomf.github.io/jgabc/propers.html#saint=Aug22),<br>[Propria (PDF scan)](/pdf/22-August-ImmaculateHeart.pdf)  | 1612(1) ||
 
 *) all page numbers as in _Liber Usualis_.
 
