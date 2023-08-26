@@ -24,7 +24,7 @@ sortIndex: 34
 | Grad | E |
 | Allelúia | E |
 | Offer | G |
-| Comm | Gid |
+| Comm | Gis |
 
 ## Verse Communio
 Verse Communio: page 121.
