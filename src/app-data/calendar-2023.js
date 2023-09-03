@@ -178,5 +178,9 @@ export const calendar = {
   '2023-08-27T00:00:00': {
     title: '13th Sunday after Pentecost',
     link: '/35'
+  },
+  '2023-09-03T00:00:00': {
+    title: 'St. Pius X',
+    link: '/903'
   }
 }
