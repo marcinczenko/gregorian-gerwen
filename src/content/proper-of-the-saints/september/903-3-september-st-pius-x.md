@@ -23,8 +23,8 @@ sortIndex: 903
 | Intr | E |
 | Grad | C |
 | Allelúia | E |
-| Offer | E |
+| Offer | Dis |
 | Comm | E |
 
 ## Verse Communio
-Verse Communio: page 124.
+Verse Communio: page 201.
