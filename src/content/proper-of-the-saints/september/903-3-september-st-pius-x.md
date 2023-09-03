@@ -9,8 +9,8 @@ sortIndex: 903
 |   | page | notes   |
 |---|---|---|
 | [Asperges](/pdf/asperges.pdf) | 11 ||
-| [Mass XI](/pdf/iv.pdf) | 37 ||
-| [Credo I](/pdf/credo-iv.pdf) | 68 ||
+| [Mass VIII](/pdf/viii.pdf) | 37 ||
+| [Credo III](/pdf/credo-iii.pdf) | 68 ||
 | [Propria (GABC)](https://bbloomf.github.io/jgabc/propers.html#saint=Sep3),<br>[Propria (PDF scan)](/pdf/pius-x.pdf)  | 1623A ||
 | [Salve Regina](/pdf/salve-regina.pdf)  | 279  ||
 
