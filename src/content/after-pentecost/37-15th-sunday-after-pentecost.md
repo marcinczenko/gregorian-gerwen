@@ -20,9 +20,9 @@ sortIndex: 37
 
 | Part  | Tone |
 |---|---|
-| Intr | D |
-| Grad | E |
-| Allelúia | E |
+| Intr | Dis |
+| Grad | D |
+| Allelúia | Dis |
 | Offer | F |
 | Comm | Dis |
 
