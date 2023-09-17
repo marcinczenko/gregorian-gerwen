@@ -22,8 +22,8 @@ sortIndex: 38
 |---|---|
 | Intr | E |
 | Grad | Cis |
-| Allelúia | Dis |
-| Offer | Gis |
+| Allelúia | E |
+| Offer | A |
 | Comm | F |
 
 ## Verse Communio
