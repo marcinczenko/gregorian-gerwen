@@ -118,6 +118,11 @@ const Index = () => {
             </a>{' '}
             from Catholic Encyclopedia
           </li>
+          <li>
+            <a href='/calendar/' target='_blank' rel='noreferrer'>
+              Liturgical Year (calendar)
+            </a>
+          </li>
         </ul>
       </div>
     </div>
