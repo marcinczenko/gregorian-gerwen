@@ -3,6 +3,7 @@ node_modules/
 .cache/
 public
 static/pdf
+static/video
 
 # yarn 2
 .pnp.*
