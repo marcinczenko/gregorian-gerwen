@@ -29,8 +29,8 @@ p. 583
 ### **Procession with Palms**
 
 1. _Láuda, Jerúsalem_ (p. 588)
-2. _Glória, laus_ (p. 586) 
-3. _Ingrediénte_ (p. 590)
+2. _Glória, laus_ (p. 586) - Tone Gis
+3. _Ingrediénte_ (p. 590) - Tone F
 
 During the procession we sing _Láuda, Jerúsalem_. After reaching the main entrance of the church, we sing _Glória, laus_ in the following manner: the two cantors are taking place behind the closed main entrance of the church and signing the verses _alone_ while the _Glória, laus_ is sung by the whole congregation. At the end of the _Glória, laus_ hymn, the celebrant is knocking the door three times with the cross, the door are then opened, the choir installs itself in the usual place and sings the responsory _Ingrediénte_. After the responsory, the celebrant says _Dóminus vobíscum_ followed by the prayer. After the prayer he changes the red vestments for purple, and the Mass begins.
 
@@ -46,6 +46,16 @@ During the procession we sing _Láuda, Jerúsalem_. After reaching the main entr
 *) Pages as in _Liber Usualis_.
 
 Organ: __only to support the singing__ (see [Use of musical instruments](/use-of-musical-instruments) p. CVIII).
+
+## Tones
+
+| Part  | Tone |
+|---|---|
+| Intr | Cis |
+| Grad | Dis |
+| Tractus | E |
+| Offer | E |
+| Comm | Bmol |
 
 ## Notes
 
