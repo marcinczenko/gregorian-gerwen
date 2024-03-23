@@ -14,13 +14,13 @@ sortIndex: 6
 
 When everything is ready, the celebrant and the sacred ministers [or servers] genuflect or bow to the altar as usual, and go behind the table, facing the people.
 
-**We are signing:** _Hosánna fílio Dávid_ (p. 580).
+**We are signing:** _Hosánna fílio Dávid_ (p. 580). Tone: E.
 
 ### **Distribution of Palms**
 
 When the celebrant begins distribution of the palms. If these chants are not long enough, they are repeated until the distribution of palms is finished; if, on the other hand, the distribution ends first, the _Glória Pátri_ is sung at once, followed by the antiphon.
 
-**We are signing:** _Pueri Hebraeórum_ (p. 581-583)
+**We are signing:** _Pueri Hebraeórum_ (p. 581-583) Tone: E (also psalm).
 
 ### **The reading of Gospel**
 
